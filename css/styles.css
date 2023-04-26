@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+}
+
+#container{
+    background-color:gainsboro;
+}
+
+
+
+#logo{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+}
